@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckPoint
+  - Boss
+  - playInd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking3
+  - Blocking2
+  - Blocking1
+  - Main3
+  - Main2
+  - Main1
+  - Blocking3
+  - Blocking2
+  - Blocking1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround2
+    uniqueID: 1388583827
+    locked: 0
+  - name: BackGround1
+    uniqueID: 2356807581
+    locked: 0
+  - name: BackGround0
+    uniqueID: 3838938879
+    locked: 0
+  - name: MainGround2
+    uniqueID: 1967441677
+    locked: 0
+  - name: MainGround1
+    uniqueID: 1580313801
+    locked: 0
+  - name: MainGround0
+    uniqueID: 1507097279
+    locked: 0
+  - name: Blockinglayer2
+    uniqueID: 1899396087
+    locked: 0
+  - name: Blockinglayer1
+    uniqueID: 729345663
+    locked: 0
+  - name: Blockinglayer0
+    uniqueID: 3004738825
+    locked: 0

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyber Race", "Assembly-CSharp.csproj", "{109E8110-1046-F7DE-054B-46DA2EBF2D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyber Race", "Assembly-CSharp-Editor.csproj", "{028596CC-4327-4422-F4C1-6BD80501312C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109E8110-1046-F7DE-054B-46DA2EBF2D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109E8110-1046-F7DE-054B-46DA2EBF2D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109E8110-1046-F7DE-054B-46DA2EBF2D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109E8110-1046-F7DE-054B-46DA2EBF2D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028596CC-4327-4422-F4C1-6BD80501312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028596CC-4327-4422-F4C1-6BD80501312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028596CC-4327-4422-F4C1-6BD80501312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028596CC-4327-4422-F4C1-6BD80501312C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
